@@ -1,0 +1,1 @@
+Esse trabalho foi realizado acompanhando as aulas do curso HTML e CSS: praticando HTML/CSS da plataforma da Alura, onde é abordado conceitos basicos da programação em HTML e CSS como uma forma de revisão de conteudo e coloca-los em prática. 
